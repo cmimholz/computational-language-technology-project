@@ -1,1 +1,1 @@
-# computational-language-technology-project
+# Computational Language Technology Project
