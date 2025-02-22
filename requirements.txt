@@ -1,2 +1,8 @@
 jupyter
 pandas
+nltk
+spacy
+contractions
+unidecode
+num2words
+pyspellchecker
