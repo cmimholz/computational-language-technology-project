@@ -13,6 +13,7 @@ __pycache__/
 # Ignore virtual environment
 venv/
 env/
+.conda
 
 # Ignore logs and temporary files
 logs/
